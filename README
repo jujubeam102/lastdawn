@@ -1,0 +1,11 @@
+for (myhrt = 0; myhrt < 100; myhrt++) 
+{
+
+	printf("will I get there?");
+
+	if (myhrt == 25) 
+	   printf("your life is almost over")
+	   
+
+
+}
